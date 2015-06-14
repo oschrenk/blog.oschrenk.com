@@ -1,13 +1,16 @@
 # Site navigation links
 
-- title: About
-  url: /about/
-
-- title: Sample Posts
+- title: Blog
   url: /posts/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Resume
+  url: http://careers.stackoverflow.com/oschrenk
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: Twitter
+  url: http://twitter.com/oschrenk
+
+- title: Mail
+  url: mailto:oliver.schrenk+blog@gmail.com
+
+- title: Github
+  url: http://github.com/oschrenk

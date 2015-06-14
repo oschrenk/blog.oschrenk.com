@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            oschrenk
 locale:           en_US
-url:              
+url:
 
 
 # Jekyll configuration
@@ -26,22 +26,22 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Oliver Schrenk
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
-  twitter: #username
+  bio: "I'm a software developer currently living in Amsterdam, Netherlands. I work mainly with and currently enjoying Scala and Clojure(script). In my free time I read books, play boardgames and enjoy a good cup of coffee."
+  email: oliver.schrenk@gmail.com
+  disqus-shortname:
+  twitter: oschrenk
   facebook: #username
   google:
     plus: #username
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
-  github: #username
-  stackoverflow: #http://stackoverflow.com/users/123456/username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: oschrenk
+  stackoverflow: http://stackoverflow.com/users/256853/oschrenk
   linkedin: #username
   xing: #username
   instagram: #username
