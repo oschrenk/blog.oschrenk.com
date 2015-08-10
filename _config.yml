@@ -4,7 +4,6 @@ title:            oschrenk
 locale:           en_US
 url:
 
-
 # Jekyll configuration
 
 permalink:   /:categories/:title/
@@ -22,7 +21,6 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   use_coderay: false
-
 
 # Site owner
 owner:
