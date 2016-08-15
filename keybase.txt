@@ -1,0 +1,54 @@
+===================================================================
+https://keybase.io/oschrenk
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.oschrenk.com
+  * I am oschrenk (https://keybase.io/oschrenk) on keybase.
+  * I have a public key ASBptwJsdVh8qdxfTktCDHVxibM0QOqSgeV4HLzbBqxQMQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010174be4ab62d9b5801be2b837c1d80d7e03731dff5bdc0f7bb7aa3ab9a3d8aaadf0a",
+            "host": "keybase.io",
+            "kid": "012069b7026c75587ca9dc5f4e4b420c757189b33440ea9281e5781cbcdb06ac50310a",
+            "uid": "8e4f8a16725ea28646d49ddf4638f019",
+            "username": "oschrenk"
+        },
+        "service": {
+            "hostname": "www.oschrenk.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1471295775,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1471295762,
+        "hash": "06a7e24b33187f48b686f347919353e4eb9f153ee4468f878e78e0959bb7b4a00d1012024865bb008347660bba500fe27a2f1d6b3d48ac2f6f1ed383a4838577",
+        "seqno": 579012
+    },
+    "prev": "ea783a655559902e6342ba37ad27de2c2a53565f984d62175a66ac752187d381",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgabcCbHVYfKncX05LQgx1cYmzNEDqkoHleBy82wasUDEKp3BheWxvYWTFAvd7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNzRiZTRhYjYyZDliNTgwMWJlMmI4MzdjMWQ4MGQ3ZTAzNzMxZGZmNWJkYzBmN2JiN2FhM2FiOWEzZDhhYWFkZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNjliNzAyNmM3NTU4N2NhOWRjNWY0ZTRiNDIwYzc1NzE4OWIzMzQ0MGVhOTI4MWU1NzgxY2JjZGIwNmFjNTAzMTBhIiwidWlkIjoiOGU0ZjhhMTY3MjVlYTI4NjQ2ZDQ5ZGRmNDYzOGYwMTkiLCJ1c2VybmFtZSI6Im9zY2hyZW5rIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ3d3cub3NjaHJlbmsuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNyJ9LCJjdGltZSI6MTQ3MTI5NTc3NSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDcxMjk1NzYyLCJoYXNoIjoiMDZhN2UyNGIzMzE4N2Y0OGI2ODZmMzQ3OTE5MzUzZTRlYjlmMTUzZWU0NDY4Zjg3OGU3OGUwOTU5YmI3YjRhMDBkMTAxMjAyNDg2NWJiMDA4MzQ3NjYwYmJhNTAwZmUyN2EyZjFkNmIzZDQ4YWMyZjZmMWVkMzgzYTQ4Mzg1NzciLCJzZXFubyI6NTc5MDEyfSwicHJldiI6ImVhNzgzYTY1NTU1OTkwMmU2MzQyYmEzN2FkMjdkZTJjMmE1MzU2NWY5ODRkNjIxNzVhNjZhYzc1MjE4N2QzODEiLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECdTEJLRCk1Gd/qbiZAUz95v+i+1LWqq3siG4Ghevu+zKY5Jo1IVD6MY49yBXx9TKksoy+bjrSaHEy57cNZE1wMqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg3Jpjhs/BKmQ8j7DhrtClw8doz9oQQmvxTO82vWNRzWyjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/oschrenk
+
+==================================================================
