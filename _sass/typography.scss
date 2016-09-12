@@ -147,11 +147,13 @@ p {
 
 tt, code, kbd, samp, pre {
 	font-family: $code-font;
+  @include font-rem(14);
+  background-color: #efefef;
 }
 p,
 li {
 	code {
-		@include font-rem(12);
+		@include font-rem(18);
 		line-height: 1.5;
 		white-space: nowrap;
 		margin: 0 2px;
