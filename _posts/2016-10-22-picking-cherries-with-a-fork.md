@@ -34,14 +34,17 @@ git push origin master
 # 5. Be happy
 ```
 
-So what happens here:
+So what happens here?
 
 1. Clone the main repository with the fixed behaviour. Here `hub ...` is just a shorter way of typing
-```
+
+```shell
 git clone git://github.com/tpope/vim-vinegar.git
 ```
+
 2. Fork the repository. `hub` does a bit of work here and actually creates the fork on Github for you and adds it as a remote. We then go one step further and change the origin to my fork and rename the original origin to upstream.
-```
+
+```shell
 cd vim-vinegar
 (forking repo on GitHub...)
 git remote add oschrenk git://github.com/oschrenk/vim-vinegar.git
@@ -49,16 +52,21 @@ git remote rename origin upstream
 git remote rename oschrenk origin
 git branch --set-upstream-to=origin/master
 ```
+
 3. Here you still have to put some manual work in and actually browse the commit history of the forks or look at he pull requests to decide which commits you need. But then `hub cherry-pick` just fetches the repo of the fork and cherry-picks that commit on top of your current branch.
-```
+
+```shell
 hub cherry-pick https://github.com/glittershark/vim-vinegar/commit/f5f532
 git remote add glittershark git://github.com/glittershark/vim-vinegar.git
 git fetch glittershark
 git cherry-pick f5f532
 ```
+
 4. And now where are already done. Just push that new commit to make it part of Github. Congratulations you now have your own fork.
-```
+
+```shell
 git push origin master
 ```
+
 5. Don't forget to be happy!
 
