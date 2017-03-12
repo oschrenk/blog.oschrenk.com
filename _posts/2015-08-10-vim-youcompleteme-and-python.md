@@ -20,7 +20,7 @@ The important thing is to **make sure that vim and YCM both are compiled with th
 I wanted to start from scratch and removed my installation of vim, macvim and python and reinstalled them.
 
 ```console
-brew rm vim vim python
+brew rm vim macvim python
 brew install python
 brew install vim --override-system-vi
 brew install macvim --override-system-vim
